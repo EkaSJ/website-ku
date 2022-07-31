@@ -1,2 +1,2 @@
 # website-ku
-website buatan saya yang mungkin akan saya kembangkan dari waktu ke waktu
+website buatan saya yang kemungkinan akan saya kembangkan waktu demi waktu.
